@@ -1,6 +1,5 @@
-# About Me
+# Hi there, I'm Minahal 🌟
 
-Hi, I’m Minahal!
 I have a BS in Computer Science and am interested in projects at the intersection of **computer science, medicine, and public health**.  
 
 My main interests are in **medical AI, clinical informatics, and genomics modeling**. I am very interested in finding unique ways to turn data into tools that can help patients and health systems.  
